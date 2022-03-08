@@ -18,7 +18,7 @@ NODE_ENV = 'production'
 ## Pre-requisites
 - An account on Edgeware with Test EDG - or local node running (for local edgeware blockcahin)
 
-Currently, the app can be used on https://beresheet-faucet.vercel.app/, but the domain is likely to change and shall be updated here.
+Currently, the app can be used on https://faucet-beresheet.vercel.app/, but the domain is likely to change and shall be updated here.
 
 ## Getting Started
 
@@ -63,7 +63,14 @@ Please submit pull requests to us using the format described while making a pull
 
 ## Authors
 
+* **[Raj Ranjan](https://www.linkedin.com/in/iamrajranjan/)**
+* **[Sameer Kumar Kushwaha](https://www.linkedin.com/in/kushwahasameerkumar/)**
+* **[Sayan Kar](https://www.linkedin.com/in/sayan-kar-/)**
+* **[Nimish Agrawal](https://www.linkedin.com/in/realnimish/)**
 * **Furqan Ahmed** - [Contact](https://www.flow.page/FurqanAhmed)
+
+
+## Main
 
 See also the list of [contributors](https://github.com/edgeware-builders/beresheet-faucet-backend/contributors) who participated in this project.
 
